@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<rss version="2.0">
+	<channel>
+		<title>Canal de noticias generales de Juan Choas</title>
+		<link>https://craftadria.github.io/Historietas/index.html#services</link>
+		<description>Noticias que en referencia a las diferentes razas de perros</description>
+		<item>
+			<title>El monstruo</title>
+			<link>https://craftadria.github.io/Historietas/paginas/monstruo.html</link>
+			<description>Tus ojos se abren y descubres que estás corriendo por un oscuro bosque descalzo. Sientes una respiración pesada y un olor nauseabundo. Miras atrás. No ves absolutamente nada. Vuelves a mirar hacia delante y ves a alguien escapando de tí. Ahí comprendes quién es el monstruo.</description>
+		</item>
+		<item>
+			<title>En alta mar</title>
+			<link>https://craftadria.github.io/Historietas/paginas/mar.html</link>
+			<description>Todo parecía perfecto. El crucero era de lo mejor. Mi mujer y yo habíamos ahorrado para pagar el viaje y ya habían trascurrido cinco días. Esa noche, sentados en la popa del barco, me percaté que algo no iba bien. Un tripulante corría en dirección al puente de mando. Solo hubiera deseado no recordar una cosa: ¡no sé nadar!</description>	
+		</item>
+		<item>
+			<title>Primer día como médico</title>
+			<link>https://craftadria.github.io/Historietas/paginas/medico.html</link>
+			<description>Si algo es seguro es que no estoy seguro de nada. Así pensaba el joven médico que hacía su primera guardia sin supervisión. Rogaba que fuera tranquila y sin nada que lo sorprendiera puesto que no hay nada más aterrador para un médico que la inexperiencia y estar en un pueblo alejado de cualquier hospital. En ese mismo instante llega un joven a emergencias con convulsiones. El joven médico, siguiendo el protocolo, le administra fármacos para tratar las convulsiones. ¿A que no se imaginan quién tuvo una reacción adversa al medicamento? Investiguen el síndrome de Steven Johnson</description>
+		</item>		
+	</channel>
+</rss>
