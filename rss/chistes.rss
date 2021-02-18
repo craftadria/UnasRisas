@@ -1,25 +1,24 @@
-<?xml version="1.0" encoding="ISO-8859-1" ?>
+<?xml version="1.0" encoding="ISO-8859-1" ?> 
 <rss version="2.0">
 	<channel>
 		<title>Canal de chistes generales de Juan Choas</title>
 		<link>https://craftadria.github.io/UnasRisas/index.html#about</link>
-		<description>Noticias de los ultimis chistes disponibles</description>
+		<description>Noticias de los ultimos chistes disponibles</description>
+
 		<item>
 			<title>Chiste de arboles</title>
-			<link>https://craftadria.github.io/UnasRisas/sonidos/chiste1.mp3</link>
-			<description>¿Qué le dice un árbol a otro?. ¡Qué pasa tronco!</description>
-		</item>	
+			<link></link>
+			<enclousure url="https://craftadria.github.io/UnasRisas/sonidos/chiste1.mp3" length="79960"></enclousure>
+		</item>
 		<item>
 			<title>Chiste de escuela</title>
-			<link>https://craftadria.github.io/UnasRisas/sonidos/chiste2.mp3</link>
-			<description>¿Por qué se suicidó el libro de matemáticas?. Porque tenía muchos problemas.</description>	
+			<link>https://craftadria.github.io/UnasRisas/index.html</link>
+			<enclousure url="https://craftadria.github.io/UnasRisas/sonidos/chiste2.mp3" length="14358"></enclousure>
 		</item>
 		<item>
 			<title>Chiste de camarero</title>
-			<link>https://craftadria.github.io/UnasRisas/sonidos/chiste3.mp3</link>
-			<description>¡Camarero! Este filete tiene muchos nervios. Normal, es la primera vez que se lo comen.</description>
-		</item>
-
-	
+			<link>https://craftadria.github.io/UnasRisas/index.html</link>
+			<enclousure url="https://craftadria.github.io/UnasRisas/sonidos/chiste3.mp3" length="141587"></enclousure>
+		</item>		
 	</channel>
 </rss>
