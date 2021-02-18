@@ -8,17 +8,17 @@
 		<item>
 			<title>Chiste de arboles</title>
 			<link></link>
-			<enclousure url="https://craftadria.github.io/UnasRisas/sonidos/chiste1.mp3" length="79960"></enclousure>
+			<enclousure url="https://craftadria.github.io/UnasRisas/sonidos/chiste1.mp3" length="59600"></enclousure>
 		</item>
 		<item>
 			<title>Chiste de escuela</title>
 			<link>https://craftadria.github.io/UnasRisas/index.html</link>
-			<enclousure url="https://craftadria.github.io/UnasRisas/sonidos/chiste2.mp3" length="14358"></enclousure>
+			<enclousure url="https://craftadria.github.io/UnasRisas/sonidos/chiste2.mp3" length="87300"></enclousure>
 		</item>
 		<item>
 			<title>Chiste de camarero</title>
 			<link>https://craftadria.github.io/UnasRisas/index.html</link>
-			<enclousure url="https://craftadria.github.io/UnasRisas/sonidos/chiste3.mp3" length="141587"></enclousure>
+			<enclousure url="https://craftadria.github.io/UnasRisas/sonidos/chiste3.mp3" length="114000"></enclousure>
 		</item>		
 	</channel>
 </rss>
